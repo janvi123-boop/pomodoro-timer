@@ -1,4 +1,4 @@
-# Pomodoro Timer 🍅
+# Pomodoro Timer ⌛
 
 A clean and responsive Pomodoro Timer built using React.js and Tailwind CSS to help improve productivity and focus using the Pomodoro Technique.
 
@@ -23,10 +23,3 @@ A clean and responsive Pomodoro Timer built using React.js and Tailwind CSS to h
 - JavaScript
 - HTML5
 - CSS3
-
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/pomodoro-timer.git
